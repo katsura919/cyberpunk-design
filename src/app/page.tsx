@@ -170,7 +170,7 @@ export default function Home() {
               The workflow prioritizes speed, authenticity, and measurable growth.
             </p>
             <p className="mt-4 font-mono text-xs uppercase tracking-[0.16em] text-accent">
-              Currently based in Lisbon, traveling worldwide.
+              Currently based in Spain.
             </p>
           </div>
 
